@@ -4,4 +4,6 @@ From Wikipedia: In botany, phyllotaxis or phyllotaxy is the arrangement of leave
 
 This scratch project was inspired by [this coding challenge](https://www.youtube.com/watch?v=KWoJgHFYWxY) from the coding train channel on YouTube.
 
+Begin by creating 5 variables with the names "count", "radius", "scale", "x" and "y"
+
 ![Phyllotaxis scratch example](https://github.com/Brewster35/Coding-Club/blob/master/Phyllotaxis/phyllotaxis.png)
